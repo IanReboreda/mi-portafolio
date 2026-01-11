@@ -30,4 +30,4 @@ Construir un portafolio técnico mientras completo mi formación universitaria, 
 
 ---
 
-*Última actualización: $(date +"%10/%01/%2026")*
+*Última actualización: (date "10/01/2026")*
